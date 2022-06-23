@@ -1,2 +1,2 @@
-print("Hello Word - alterado")
+print("Hello Word")
 
